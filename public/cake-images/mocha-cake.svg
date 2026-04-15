@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-label="Mocha Layer Cake">
+  <rect width="1200" height="900" fill="#f2e4d7"/>
+  <rect x="150" y="690" width="900" height="40" rx="20" fill="#b99d84"/>
+  <rect x="360" y="560" width="480" height="80" rx="20" fill="#6c4333"/>
+  <rect x="360" y="480" width="480" height="70" rx="20" fill="#f4e6d9"/>
+  <rect x="360" y="400" width="480" height="70" rx="20" fill="#6c4333"/>
+  <rect x="360" y="330" width="480" height="60" rx="20" fill="#efe0d1"/>
+  <text x="600" y="130" text-anchor="middle" font-size="54" font-family="Verdana" fill="#4d2e22" font-weight="700">Mocha Layer Cake</text>
+</svg>

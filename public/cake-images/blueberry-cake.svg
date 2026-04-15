@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-label="Blueberry Soft Cake">
+  <rect width="1200" height="900" fill="#edf1ff"/>
+  <rect x="170" y="690" width="860" height="40" rx="20" fill="#aab7d8"/>
+  <ellipse cx="600" cy="600" rx="320" ry="95" fill="#a2b2ea"/>
+  <ellipse cx="600" cy="525" rx="295" ry="86" fill="#f9fbff"/>
+  <circle cx="490" cy="515" r="14" fill="#4f5fb1"/>
+  <circle cx="560" cy="500" r="14" fill="#4f5fb1"/>
+  <circle cx="640" cy="500" r="14" fill="#4f5fb1"/>
+  <circle cx="710" cy="515" r="14" fill="#4f5fb1"/>
+  <text x="600" y="130" text-anchor="middle" font-size="54" font-family="Verdana" fill="#364a8c" font-weight="700">Blueberry Soft Cake</text>
+</svg>

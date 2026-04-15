@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-label="Hazelnut Crunch Cake">
+  <rect width="1200" height="900" fill="#f7efe4"/>
+  <rect x="170" y="690" width="860" height="40" rx="20" fill="#c0a184"/>
+  <ellipse cx="600" cy="600" rx="320" ry="95" fill="#9f6b43"/>
+  <ellipse cx="600" cy="530" rx="295" ry="88" fill="#f8f0e6"/>
+  <circle cx="480" cy="520" r="13" fill="#7e5a3a"/>
+  <circle cx="530" cy="500" r="13" fill="#7e5a3a"/>
+  <circle cx="590" cy="490" r="13" fill="#7e5a3a"/>
+  <circle cx="650" cy="500" r="13" fill="#7e5a3a"/>
+  <circle cx="710" cy="520" r="13" fill="#7e5a3a"/>
+  <text x="600" y="130" text-anchor="middle" font-size="54" font-family="Verdana" fill="#5e3b20" font-weight="700">Hazelnut Crunch Cake</text>
+</svg>

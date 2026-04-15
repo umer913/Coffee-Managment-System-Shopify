@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-label="XYZ--COFFEE kraft package">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f7efe5"/>
+      <stop offset="100%" stop-color="#efe2d4"/>
+    </linearGradient>
+    <linearGradient id="bag" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#caa177"/>
+      <stop offset="100%" stop-color="#a8774e"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <g transform="translate(370 120)">
+    <path d="M60 40h340l-30 95h-280z" fill="#8b5e3d" opacity="0.28"/>
+    <rect x="30" y="120" width="380" height="620" rx="34" fill="url(#bag)"/>
+    <rect x="78" y="195" width="286" height="390" rx="22" fill="#f7ecde"/>
+    <rect x="78" y="615" width="286" height="92" rx="14" fill="#8b5e3d" opacity="0.16"/>
+    <text x="221" y="295" font-size="34" text-anchor="middle" fill="#4a2f1c" font-family="Verdana, sans-serif" font-weight="700">XYZ--COFFEE</text>
+    <text x="221" y="345" font-size="28" text-anchor="middle" fill="#6b4730" font-family="Verdana, sans-serif">GROUND COFFEE</text>
+    <text x="221" y="508" font-size="24" text-anchor="middle" fill="#6b4730" font-family="Verdana, sans-serif">Freshness Valve Pack</text>
+    <circle cx="173" cy="408" r="22" fill="#73492e"/>
+    <circle cx="221" cy="420" r="22" fill="#73492e"/>
+    <circle cx="268" cy="408" r="22" fill="#73492e"/>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-label="Strawberry Dream Cake">
+  <rect width="1200" height="900" fill="#ffeef4"/>
+  <rect x="170" y="690" width="860" height="40" rx="20" fill="#d3a4b6"/>
+  <ellipse cx="600" cy="600" rx="320" ry="95" fill="#f2b5cb"/>
+  <ellipse cx="600" cy="525" rx="295" ry="86" fill="#fff9fb"/>
+  <circle cx="510" cy="510" r="14" fill="#df4c78"/>
+  <circle cx="575" cy="495" r="14" fill="#df4c78"/>
+  <circle cx="645" cy="495" r="14" fill="#df4c78"/>
+  <circle cx="710" cy="510" r="14" fill="#df4c78"/>
+  <text x="600" y="130" text-anchor="middle" font-size="54" font-family="Verdana" fill="#9e3556" font-weight="700">Strawberry Dream Cake</text>
+</svg>
